@@ -2,10 +2,10 @@
 
 Trabajo práctico individual de **Administración de Empresas y Gestión Organizacional**.
 
-- **Alumno/a:** [completar nombre y apellido]
-- **Materia:** [completar materia]
-- **Sitio publicado (Netlify):** [pegar link]
-- **Archivos Word y Excel (Drive):** [pegar link a la carpeta compartida]
+- **Alumno/a:** [Miguel Angel Ramon Galarza]
+- **Materia:** [imformatica]
+- **Sitio publicado (Netlify):** [https://strong-frangollo-13709a.netlify.app/]
+- **Archivos Word y Excel (Drive):** [https://drive.google.com/drive/folders/1vAPOBCJKjoniEst4Jf0HiYJJ8OPz7o25]
 
 ## 1. Tema
 
@@ -36,9 +36,9 @@ Los Excel y el Word están guardados en mi Drive personal (link arriba).
 | **Perplexity** | [Completar: qué consultas hice y qué fuentes obtuve. Ej.: verificación del SMVM de septiembre 2026, fecha del DNU 70/2023 e inicio del FAL] |
 | **Cuaderno Gemini** | [https://notebook.google.com/notebook/e8fc9b52-c7a9-4125-9427-ba2127e1aecd] |
 | **Claude** | Análisis de los datos, armado de los Excel y del Word, corrección del informe de Cuaderno Gemini y generación del HTML |
-| **Netlify** | Publicación del sitio |
+| **Netlify** | https://strong-frangollo-13709a.netlify.app/ |
 | **GitHub** | Repositorio con el trabajo y este README |
-| **Drive** | Almacenamiento de los archivos Word y Excel |
+| **Drive** | https://drive.google.com/drive/folders/1vAPOBCJKjoniEst4Jf0HiYJJ8OPz7o25 |
 
 No se usó ChatGPT, DeepSeek, Grok ni otra inteligencia artificial fuera de las indicadas en la consigna.
 
